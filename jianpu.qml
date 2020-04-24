@@ -7,7 +7,7 @@
 import QtQuick 2.2
 import QtQuick.Controls 1.1
 import QtQuick.Layouts 1.1
-import MuseScore 3.0
+import MuseScore 1.0
 
 MuseScore {
       version:  "1.0"
